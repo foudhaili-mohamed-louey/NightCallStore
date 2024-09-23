@@ -1,0 +1,24 @@
+[
+    {
+        "id" : 1,
+        "name" : " 5$ steam",
+        "photo" :"https://livekort.dk/pl/Steam-Giftcard-20-EUR-66188.png",
+        "views" : "(260)",
+        "prix":"5.89$"
+
+    },
+    {
+        "id" : 2,
+        "name" : " 100$ ps",
+        "photo" :"https://d3dbtxes2rri5w.cloudfront.net/product/ccf330db-7a69-4c3d-9f21-bfacdcc39966.webp",
+        "views" : "(50)",
+        "prix":"101.99$"
+    },
+    {
+        "id" : 3,
+        "name" : " 50$ xbox",
+        "photo" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWyFHHl2qobWeV7-NVMD_LAQP8eV6BTXljLjr24ek6jpR6Mb0bN35-VxFWc0ehi5gOpLA&usqp=CAU",
+        "views" : "(120)",
+        "prix":"50.99$"
+    }
+]

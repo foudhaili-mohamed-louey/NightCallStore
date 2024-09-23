@@ -1,0 +1,32 @@
+.about-us-container
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 70%;
+    max-height: 60%;
+    border-radius: 9px;
+    margin-left:15%;
+    margin-top: 60px;
+    box-shadow: -15px -3px 34px 3px rgba(69,223,177,0.73);
+    -webkit-box-shadow: -15px -3px 34px 3px rgba(69,223,177,0.73);
+    -moz-box-shadow: -15px -3px 34px 3px rgba(69,223,177,0.73);}
+.aboutus-title-style
+{
+    text-align: center;
+    color:#80ED99;
+    font-weight: bold;
+    font-size: 36px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.description-style
+{
+    text-align: center;
+    color:#24b947;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    padding:30px;
+}

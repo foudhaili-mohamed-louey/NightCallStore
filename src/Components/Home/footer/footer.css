@@ -1,0 +1,50 @@
+.footer-container
+{
+    background-color: #0B6477;
+    margin: 30px;
+    padding: 0;
+    height:300px;
+    border-radius: 8px;
+}
+.icons
+{
+    display: flex;
+    gap: 20px;
+    position: relative;
+    left: 43%;
+    top:100px;
+
+}
+.icon-facebook, .icon-insta, .icon-x, .icon-whatsup {
+    font-size: 24px;   
+    color: #45DFB1;
+    margin: 0 10px;       
+    transition: color 0.3s ease, transform 0.3s ease;
+    cursor: pointer;
+}
+
+.icon-facebook:hover {
+    color: #80ED99;    
+}
+
+.icon-insta:hover {
+    color: #80ED99;       
+}
+
+.icon-x:hover {
+    color: #80ED99;       
+}
+
+.icon-whatsup:hover {
+    color: #80ED99;       
+}
+p{      
+        color: #fff;                  
+        text-align: center;            
+        padding: 20px 0;                
+        font-size: 14px;                
+        font-family: Arial, sans-serif; 
+        border-top: 2px solid #00ffff;
+        position: relative;
+        top: 170px;
+}

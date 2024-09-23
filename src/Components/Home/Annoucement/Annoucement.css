@@ -1,0 +1,45 @@
+.Annoucement-1-area {
+    display: inline-block;
+    vertical-align: top;
+    position: relative; 
+}
+
+.Annoucement-2-area {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start; 
+    position: absolute;
+    right: 5%; 
+    top: 50%; 
+    transform: translateY(-50%);
+}
+
+.Annoucement-image-style {
+    width: 1000px;
+    height: 500px;
+    border-radius: 10px;
+    box-shadow: -9px -1px 41px 0px rgba(128, 237, 153, 0.56);
+    margin-left: 5%;
+}
+
+.consoles-games-style1,
+.consoles-games-style2 {
+    width: 250px;
+    margin-bottom: 10px;
+    box-shadow: -9px -1px 41px 0px rgba(128, 237, 153, 0.56);
+    border-radius: 10px;
+}
+
+.consoles-games-style1 {
+    height: 150px;
+    position: relative;
+    top: 30px;
+    right:15px;
+}
+
+.consoles-games-style2 {
+    height: 300px;
+    position: relative;
+    top: 50px;
+    right:15px;
+}
